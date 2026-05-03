@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:marieke-art-2026-02-02@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -36,7 +36,7 @@ DTEND;TZID=Australia/Melbourne:20260202T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-02-09@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -46,7 +46,7 @@ DTEND;TZID=Australia/Melbourne:20260209T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-02-16@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -56,7 +56,7 @@ DTEND;TZID=Australia/Melbourne:20260216T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-02-23@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -66,7 +66,7 @@ DTEND;TZID=Australia/Melbourne:20260223T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-03-02@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -76,7 +76,7 @@ DTEND;TZID=Australia/Melbourne:20260302T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-03-16@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -86,7 +86,7 @@ DTEND;TZID=Australia/Melbourne:20260316T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-03-23@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -96,7 +96,7 @@ DTEND;TZID=Australia/Melbourne:20260323T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-03-30@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -106,7 +106,7 @@ DTEND;TZID=Australia/Melbourne:20260330T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-04-20@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -116,7 +116,7 @@ DTEND;TZID=Australia/Melbourne:20260420T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-04-27@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -126,7 +126,7 @@ DTEND;TZID=Australia/Melbourne:20260427T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-05-04@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -136,7 +136,7 @@ DTEND;TZID=Australia/Melbourne:20260504T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-05-11@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -146,7 +146,7 @@ DTEND;TZID=Australia/Melbourne:20260511T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-05-18@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -156,7 +156,7 @@ DTEND;TZID=Australia/Melbourne:20260518T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-05-25@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -166,7 +166,7 @@ DTEND;TZID=Australia/Melbourne:20260525T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-06-01@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -176,7 +176,7 @@ DTEND;TZID=Australia/Melbourne:20260601T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-06-15@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -186,7 +186,7 @@ DTEND;TZID=Australia/Melbourne:20260615T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-06-22@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -196,7 +196,7 @@ DTEND;TZID=Australia/Melbourne:20260622T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-07-13@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -206,7 +206,7 @@ DTEND;TZID=Australia/Melbourne:20260713T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-07-20@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -216,7 +216,7 @@ DTEND;TZID=Australia/Melbourne:20260720T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-07-27@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -226,7 +226,7 @@ DTEND;TZID=Australia/Melbourne:20260727T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-08-03@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -236,7 +236,7 @@ DTEND;TZID=Australia/Melbourne:20260803T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-08-10@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -246,7 +246,7 @@ DTEND;TZID=Australia/Melbourne:20260810T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-08-17@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -256,7 +256,7 @@ DTEND;TZID=Australia/Melbourne:20260817T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-08-24@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -266,7 +266,7 @@ DTEND;TZID=Australia/Melbourne:20260824T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-08-31@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -276,7 +276,7 @@ DTEND;TZID=Australia/Melbourne:20260831T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-09-07@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -286,7 +286,7 @@ DTEND;TZID=Australia/Melbourne:20260907T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-09-14@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -296,7 +296,7 @@ DTEND;TZID=Australia/Melbourne:20260914T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-10-05@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -306,7 +306,7 @@ DTEND;TZID=Australia/Melbourne:20261005T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-10-12@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -316,7 +316,7 @@ DTEND;TZID=Australia/Melbourne:20261012T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-10-19@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -326,7 +326,7 @@ DTEND;TZID=Australia/Melbourne:20261019T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-10-26@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -336,7 +336,7 @@ DTEND;TZID=Australia/Melbourne:20261026T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-11-02@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -346,7 +346,7 @@ DTEND;TZID=Australia/Melbourne:20261102T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-11-09@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -356,7 +356,7 @@ DTEND;TZID=Australia/Melbourne:20261109T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-11-16@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -366,7 +366,7 @@ DTEND;TZID=Australia/Melbourne:20261116T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-11-23@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -376,7 +376,7 @@ DTEND;TZID=Australia/Melbourne:20261123T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-11-30@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -386,7 +386,7 @@ DTEND;TZID=Australia/Melbourne:20261130T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-12-07@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -396,7 +396,7 @@ DTEND;TZID=Australia/Melbourne:20261207T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2026-12-14@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -406,7 +406,7 @@ DTEND;TZID=Australia/Melbourne:20261214T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2027-02-01@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -416,7 +416,7 @@ DTEND;TZID=Australia/Melbourne:20270201T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2027-02-08@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -426,7 +426,7 @@ DTEND;TZID=Australia/Melbourne:20270208T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2027-02-15@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -436,7 +436,7 @@ DTEND;TZID=Australia/Melbourne:20270215T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2027-02-22@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -446,7 +446,7 @@ DTEND;TZID=Australia/Melbourne:20270222T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2027-03-01@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -456,7 +456,7 @@ DTEND;TZID=Australia/Melbourne:20270301T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2027-03-15@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -466,7 +466,7 @@ DTEND;TZID=Australia/Melbourne:20270315T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2027-03-22@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -476,7 +476,7 @@ DTEND;TZID=Australia/Melbourne:20270322T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2027-04-12@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -486,7 +486,7 @@ DTEND;TZID=Australia/Melbourne:20270412T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2027-04-19@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -496,7 +496,7 @@ DTEND;TZID=Australia/Melbourne:20270419T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-art-2027-04-26@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Art class (incl. travel)
 DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
 CATEGORIES:Marieke — Art
@@ -506,7 +506,7 @@ DTEND;TZID=Australia/Melbourne:20270426T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-air-wallan-2026-05-06@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Artist in Residence (Wallan)
 DESCRIPTION:Marieke's artist-in-residence session in Wallan.
 LOCATION:Wallan\, VIC
@@ -517,7 +517,7 @@ DTEND;TZID=Australia/Melbourne:20260506T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-air-wallan-2026-05-27@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Artist in Residence (Wallan)
 DESCRIPTION:Marieke's artist-in-residence session in Wallan.
 LOCATION:Wallan\, VIC
@@ -528,7 +528,7 @@ DTEND;TZID=Australia/Melbourne:20260527T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:marieke-air-wallan-2026-06-10@oliver-daly-roster
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:Marieke — Artist in Residence (Wallan)
 DESCRIPTION:Marieke's artist-in-residence session in Wallan.
 LOCATION:Wallan\, VIC
@@ -539,7 +539,7 @@ DTEND;TZID=Australia/Melbourne:20260610T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:01425D04-D930-4B8C-9D5A-1DEF9FC6A947@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Teresa counsellor
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260417T083000
@@ -547,7 +547,7 @@ DTEND;TZID=Australia/Melbourne:20260417T093000
 END:VEVENT
 BEGIN:VEVENT
 UID:029DA8CA-995F-467C-BADA-ADE0E4E1EFEE@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Tim Murphy opening 6pm
 LOCATION:Victorian Artists Society\n430 Albert St\, East Melbourne VIC 3002\, Australia
 CATEGORIES:Marieke-iCloud
@@ -556,7 +556,7 @@ DTEND;TZID=Australia/Melbourne:20260430T200000
 END:VEVENT
 BEGIN:VEVENT
 UID:02DE70B5-46E8-4FB4-ADD3-7AF09C8ABF15@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: ••••teaching registration due!!!!•••••
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260126
@@ -564,7 +564,7 @@ DTEND;VALUE=DATE:20260319
 END:VEVENT
 BEGIN:VEVENT
 UID:03EB4402-3602-4B66-AAD6-849BE038545D@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Chapman and Bailey workshop materials etc 1pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260317T130000
@@ -572,7 +572,7 @@ DTEND;TZID=Australia/Melbourne:20260317T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:05042F48-F2A3-438B-9635-618F7012384E@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr Lim 10.30am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260324T103000
@@ -580,7 +580,7 @@ DTEND;TZID=Australia/Melbourne:20260324T113000
 END:VEVENT
 BEGIN:VEVENT
 UID:052BDE64-F8D6-4CFE-9801-B014252F2CDC@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=ExhJUlIsEeyAiKKRPXulKQ&k=rU0oUKjxFXea8t4R5rS-V53CPbUjCOBaMBpEJiwpwJI\n---===---
 CATEGORIES:Marieke-iCloud
@@ -589,7 +589,7 @@ DTEND;TZID=Australia/Melbourne:20260414T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:09336A01-A79A-4D7E-A769-70081CF9FC34@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Axel orthodontics appointment 3.45pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260429T154500
@@ -597,7 +597,7 @@ DTEND;TZID=Australia/Melbourne:20260429T164500
 END:VEVENT
 BEGIN:VEVENT
 UID:0B5B5099-B876-44B1-ACD2-50C1B6F2D5C4@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Tania msteams 1pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260220T124500
@@ -605,7 +605,7 @@ DTEND;TZID=Australia/Melbourne:20260220T134500
 END:VEVENT
 BEGIN:VEVENT
 UID:0C9A384A-CADB-4A3B-8874-B9617B48D590@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Nico’s 10th birthday party 1.30 at Hijjinx @ QV
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260222T133000
@@ -613,7 +613,7 @@ DTEND;TZID=Australia/Melbourne:20260222T162000
 END:VEVENT
 BEGIN:VEVENT
 UID:0E7D2545-B236-4888-AC82-20F580ABBAB3@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Axel Dr waters 12pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260119T120000
@@ -621,7 +621,7 @@ DTEND;TZID=Australia/Melbourne:20260119T130000
 END:VEVENT
 BEGIN:VEVENT
 UID:0F0AABE1-5B5B-4603-915F-DA35028C24D2@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: ## GET ACTIV VOUCHER DUE####
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260227
@@ -629,7 +629,7 @@ DTEND;VALUE=DATE:20260430
 END:VEVENT
 BEGIN:VEVENT
 UID:106ADB4A-424C-4042-832A-CFEAE2E6E714@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -638,7 +638,7 @@ DTEND;TZID=Australia/Melbourne:20260721T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:148184D7-3AC5-4223-B8A5-F0F973662736@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr Iser 7.30am st v’s private level 1
 DESCRIPTION:No dinner clear night before plus bowl prep
 CATEGORIES:Marieke-iCloud
@@ -647,7 +647,7 @@ DTEND;TZID=Australia/Melbourne:20260210T081500
 END:VEVENT
 BEGIN:VEVENT
 UID:15CE7C06-A5E8-49E0-95D6-3FA8CE4EDDC1@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -656,7 +656,7 @@ DTEND;TZID=Australia/Melbourne:20260120T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:15D8A216-6322-4B81-8D56-A2B6BD5AA22D@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: MIGRAINE 6pm 1 x Maxolt 1 x maxalon 3 x dispirin
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260422
@@ -664,7 +664,7 @@ DTEND;VALUE=DATE:20260423
 END:VEVENT
 BEGIN:VEVENT
 UID:173FDA60-213D-41F3-9892-13BB4EA6FB54@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr Waters 9am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260430T090000
@@ -672,7 +672,7 @@ DTEND;TZID=Australia/Melbourne:20260430T100000
 END:VEVENT
 BEGIN:VEVENT
 UID:17968113-2D9F-4092-BA75-57C9EB78BCA2@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: ••AXEL RETURNED FROM D’s with 4 days of adhd medication not taken
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260304
@@ -680,7 +680,7 @@ DTEND;VALUE=DATE:20260305
 END:VEVENT
 BEGIN:VEVENT
 UID:1B966BD9-38E4-424E-805E-A619831EAFF8@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -689,7 +689,7 @@ DTEND;TZID=Australia/Melbourne:20260623T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:1D08D337-5DF2-4A7B-A5A0-700EE27D8F6C@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Emma Carlill and family in town
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260709
@@ -697,7 +697,7 @@ DTEND;VALUE=DATE:20260713
 END:VEVENT
 BEGIN:VEVENT
 UID:1F59218C-0F5B-4D34-A637-34D65433288E@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Marieke physio appoint 1.45
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260202T135500
@@ -705,7 +705,7 @@ DTEND;TZID=Australia/Melbourne:20260202T145500
 END:VEVENT
 BEGIN:VEVENT
 UID:1F6E54AC-1F4E-43B9-A195-4EF7A35E543E@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: ***MC GIVERN ART PRIZE****
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260426
@@ -713,7 +713,7 @@ DTEND;VALUE=DATE:20260626
 END:VEVENT
 BEGIN:VEVENT
 UID:218A0184-E906-436F-98D1-2AF9B6A5FD67@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -722,7 +722,7 @@ DTEND;TZID=Australia/Melbourne:20261020T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:22235F7F-FCE0-44FA-A926-3A94D90C79B3@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: The Beth’s at the Forum 7pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260425T190000
@@ -730,7 +730,7 @@ DTEND;TZID=Australia/Melbourne:20260425T200000
 END:VEVENT
 BEGIN:VEVENT
 UID:23B5FA5D-CF14-4445-A61F-E3C3C1BFB9C2@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -739,7 +739,7 @@ DTEND;TZID=Australia/Melbourne:20260818T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:24618D08-7E54-4743-9431-099645B3FF0D@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Axel orthodontics appointment 2.40pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260310T144000
@@ -747,7 +747,7 @@ DTEND;TZID=Australia/Melbourne:20260310T154000
 END:VEVENT
 BEGIN:VEVENT
 UID:2522175D-300C-4E67-BF70-D4BDCE53A756@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: HILDE VICSWIM 11am Roadknight
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260112T110000
@@ -755,7 +755,7 @@ DTEND;TZID=Australia/Melbourne:20260116T120000
 END:VEVENT
 BEGIN:VEVENT
 UID:28A0D628-D1FE-43B7-AF98-8F72F9842881@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Meaghan Kinross lunch 12.45
 LOCATION:Top Paddock\n658 Church St\, Richmond VIC 3121\, Australia
 CATEGORIES:Marieke-iCloud
@@ -764,7 +764,7 @@ DTEND;TZID=Australia/Melbourne:20260228T134500
 END:VEVENT
 BEGIN:VEVENT
 UID:29281789-ED01-4CEE-ACB1-0642B2000F68@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Hannah 9th bday party 11-1pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260309T110000
@@ -772,7 +772,7 @@ DTEND;TZID=Australia/Melbourne:20260309T130000
 END:VEVENT
 BEGIN:VEVENT
 UID:2A06F7C8-0B8E-4201-A662-5DC71E05B642@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Jane O’Neil opening 3.30 @ Void
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260131T153000
@@ -780,7 +780,7 @@ DTEND;TZID=Australia/Melbourne:20260131T163000
 END:VEVENT
 BEGIN:VEVENT
 UID:2A8166D2-D3BE-4DA2-8729-5924F6556221@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -789,7 +789,7 @@ DTEND;TZID=Australia/Melbourne:20260512T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:2D0D2EB3-C8EF-4B3A-8717-5E43B490E540@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr Waters 9am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20261119T090000
@@ -797,7 +797,7 @@ DTEND;TZID=Australia/Melbourne:20261119T100000
 END:VEVENT
 BEGIN:VEVENT
 UID:2E0A1913-DCA7-4F5B-8DAB-EA97C34BB77D@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr Waters 9am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260730T090000
@@ -805,7 +805,7 @@ DTEND;TZID=Australia/Melbourne:20260730T100000
 END:VEVENT
 BEGIN:VEVENT
 UID:31DA1728-8305-48C6-8609-EFE4E40757ED@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260521T130000
@@ -813,7 +813,7 @@ DTEND;TZID=Australia/Melbourne:20260521T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:32680832-E738-494F-BD9C-9FE8598955D5@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: +++BANKSIA ART PRIZE++++
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260319
@@ -821,7 +821,7 @@ DTEND;VALUE=DATE:20260902
 END:VEVENT
 BEGIN:VEVENT
 UID:327AC9F6-6CA3-4F11-87AF-23506DE072AD@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr Martha Hickey at 3pm women’s hospital allow 3hrs
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260326T150000
@@ -829,7 +829,7 @@ DTEND;TZID=Australia/Melbourne:20260326T160000
 END:VEVENT
 BEGIN:VEVENT
 UID:353C60C7-0C2D-43FD-A4ED-2EA2C6F68B13@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -838,7 +838,7 @@ DTEND;TZID=Australia/Melbourne:20260922T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:3BD86BF2-0275-4AF4-8D1C-6E0BAF872431@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Caulfield hospital appointment 2.15
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260424T141500
@@ -846,7 +846,7 @@ DTEND;TZID=Australia/Melbourne:20260424T151500
 END:VEVENT
 BEGIN:VEVENT
 UID:3C6D49AE-0293-46A4-9CEB-A8D56F152B64@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -855,7 +855,7 @@ DTEND;TZID=Australia/Melbourne:20261110T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:3E8210B4-2F06-44BC-A667-2666CA4ED54A@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -864,7 +864,7 @@ DTEND;TZID=Australia/Melbourne:20261006T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:3FE47D5A-BF26-4458-8EEB-4A60E38FCA88@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Affinity quartet at Anglesea Hall
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260531
@@ -872,7 +872,7 @@ DTEND;VALUE=DATE:20260601
 END:VEVENT
 BEGIN:VEVENT
 UID:41F9B80D-CFB8-434D-A94B-AB5CCC5F9F68@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Axel orthodontic review 4.15pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260205T161500
@@ -880,7 +880,7 @@ DTEND;TZID=Australia/Melbourne:20260205T171500
 END:VEVENT
 BEGIN:VEVENT
 UID:428824BA-D8A7-470B-9FDB-FF32159A4BA4@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Pick up necklace for Nicolette
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260125T123000
@@ -888,7 +888,7 @@ DTEND;TZID=Australia/Melbourne:20260125T133000
 END:VEVENT
 BEGIN:VEVENT
 UID:436F6871-B90F-4117-97B5-B0107BE8C940@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Book parent teachers for Axel 3pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260317T150500
@@ -896,7 +896,7 @@ DTEND;TZID=Australia/Melbourne:20260317T160500
 END:VEVENT
 BEGIN:VEVENT
 UID:45394EE8-1C1C-4F2C-971E-4D1DF6288CBD@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Elenor 9-10.30 coffee
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260203T090000
@@ -904,7 +904,7 @@ DTEND;TZID=Australia/Melbourne:20260203T103000
 END:VEVENT
 BEGIN:VEVENT
 UID:466B4B4B-7395-4C9C-BB67-752A7DD6119A@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Alfred appointment
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260402T113000
@@ -912,7 +912,7 @@ DTEND;TZID=Australia/Melbourne:20260402T123000
 END:VEVENT
 BEGIN:VEVENT
 UID:4952ABE3-DBFD-423A-B254-B6F0E89F83E0@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Garth over to photograph painting
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260217T120000
@@ -920,7 +920,7 @@ DTEND;TZID=Australia/Melbourne:20260217T130000
 END:VEVENT
 BEGIN:VEVENT
 UID:49CE53A4-8220-42DE-AE9B-69C2CA256906@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Hair cut 12pm Sam
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260326T120000
@@ -928,7 +928,7 @@ DTEND;TZID=Australia/Melbourne:20260326T130000
 END:VEVENT
 BEGIN:VEVENT
 UID:4AC037EB-8FCD-4CA3-9D10-8A10B4975C93@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Ring children
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260101T180000
@@ -936,7 +936,7 @@ DTEND;TZID=Australia/Melbourne:20260101T190000
 END:VEVENT
 BEGIN:VEVENT
 UID:4F488743-4EA9-437E-A622-8D71BF2AA4F3@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Rebecca Corhssens
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260204T114500
@@ -944,7 +944,7 @@ DTEND;TZID=Australia/Melbourne:20260204T124500
 END:VEVENT
 BEGIN:VEVENT
 UID:50E25F96-6CAA-41F0-BE12-BA04F6C3A7B7@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr Chong 9.30 axel Royal children’s Hospital
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260727T093000
@@ -952,7 +952,7 @@ DTEND;TZID=Australia/Melbourne:20260727T103000
 END:VEVENT
 BEGIN:VEVENT
 UID:534DAC21-4AF9-4B97-82DB-2691CBBEB827@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Hilde geography show and tell 2.45pm -3.15pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260401T143000
@@ -960,7 +960,7 @@ DTEND;TZID=Australia/Melbourne:20260401T153000
 END:VEVENT
 BEGIN:VEVENT
 UID:543CA23A-CDC0-4376-AA65-0D7DA3B1203E@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: TAR staff meeting 10-2pm zoom or in person
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260116T100000
@@ -968,7 +968,7 @@ DTEND;TZID=Australia/Melbourne:20260116T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:55741D52-C973-4FA1-99E2-A7AC32FC62A1@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Hilde school assembly 3pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260320T150000
@@ -976,7 +976,7 @@ DTEND;TZID=Australia/Melbourne:20260320T160000
 END:VEVENT
 BEGIN:VEVENT
 UID:57B6EC00-27FE-429A-BBFC-29476CC46D41@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Pick up necklace for Nicolette
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260125T130000
@@ -984,7 +984,7 @@ DTEND;TZID=Australia/Melbourne:20260125T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:582B55A5-F729-455C-B514-E7A43A32A74F@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Pay Johnny deposit for chairs !!!
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260107
@@ -992,7 +992,7 @@ DTEND;VALUE=DATE:20260115
 END:VEVENT
 BEGIN:VEVENT
 UID:5ABB57E0-8E82-479F-BF76-96095A228E89@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Lully papa river cruise Romania- Austria
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20261003T150000
@@ -1000,7 +1000,7 @@ DTEND;TZID=Australia/Melbourne:20261018T160000
 END:VEVENT
 BEGIN:VEVENT
 UID:5CDF2205-91F8-46CA-9A94-A61E285F6308@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -1009,7 +1009,7 @@ DTEND;TZID=Australia/Melbourne:20260401T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:5DA6D533-12FA-45BF-AD93-9E54FEAB6B75@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr Waters 9am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260827T090000
@@ -1017,7 +1017,7 @@ DTEND;TZID=Australia/Melbourne:20260827T100000
 END:VEVENT
 BEGIN:VEVENT
 UID:5F6E8564-2B3B-407E-9CF9-8B5B4F3746A1@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: 2.40 liver ultrasound royal melb
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260319T144000
@@ -1025,7 +1025,7 @@ DTEND;TZID=Australia/Melbourne:20260319T154000
 END:VEVENT
 BEGIN:VEVENT
 UID:617A690C-54B6-4DA1-9CAE-7E01184189C0@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -1034,7 +1034,7 @@ DTEND;TZID=Australia/Melbourne:20260526T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:63A7DE15-7EA7-44CB-99DE-73FD17FE2CD4@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 1pm
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -1043,7 +1043,7 @@ DTEND;TZID=Australia/Melbourne:20260707T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:6501E9B1-80F2-4FE6-9D5A-49E93CA96344@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Meet David Pauline at cafe 8.30am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260419T082000
@@ -1051,7 +1051,7 @@ DTEND;TZID=Australia/Melbourne:20260419T092000
 END:VEVENT
 BEGIN:VEVENT
 UID:650323D2-6855-4290-857F-600BA162B4E1@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Call Pauline 1.05
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260113T130500
@@ -1059,7 +1059,7 @@ DTEND;TZID=Australia/Melbourne:20260113T140500
 END:VEVENT
 BEGIN:VEVENT
 UID:65524429-6334-4FF9-9122-C011BD174452@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: I- med mammogram 9 am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260810T090000
@@ -1067,7 +1067,7 @@ DTEND;TZID=Australia/Melbourne:20260810T100000
 END:VEVENT
 BEGIN:VEVENT
 UID:67D7FA47-2793-4035-B566-5BFB61A99505@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Terese counsellor 8.30am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260330T083000
@@ -1075,7 +1075,7 @@ DTEND;TZID=Australia/Melbourne:20260330T093000
 END:VEVENT
 BEGIN:VEVENT
 UID:6971AD78-F610-482E-AFAE-59F66E79D463@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr waters
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260917T100000
@@ -1083,7 +1083,7 @@ DTEND;TZID=Australia/Melbourne:20260917T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:6B5ED100-1938-4D7A-B23F-EABA111A3EF8@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: MIGRAINE- bad bad headache most of day
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260330
@@ -1091,7 +1091,7 @@ DTEND;VALUE=DATE:20260331
 END:VEVENT
 BEGIN:VEVENT
 UID:6C1BBA99-8C04-4196-8204-9A6308A0223B@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Group show TAR tutors work due
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260401
@@ -1099,7 +1099,7 @@ DTEND;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
 UID:6D333C51-B873-47DE-A2EE-6E9FF804B799@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Tom hanging at Bronwyn’s
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260522
@@ -1107,7 +1107,7 @@ DTEND;VALUE=DATE:20260523
 END:VEVENT
 BEGIN:VEVENT
 UID:6DDA801C-713C-41C3-A218-58799C0D1BB5@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: TAR tutor show starts
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260606T010000
@@ -1115,7 +1115,7 @@ DTEND;TZID=Australia/Melbourne:20260703T020000
 END:VEVENT
 BEGIN:VEVENT
 UID:6F64B95A-317C-4509-8383-EFAF57791C11@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Hilde overnight to Freya’s
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260321T150000
@@ -1123,7 +1123,7 @@ DTEND;TZID=Australia/Melbourne:20260322T120000
 END:VEVENT
 BEGIN:VEVENT
 UID:6FA6CF09-BA88-4025-915C-E23FB02E4C66@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: MIGRAINE all day 1 x Maxolt 4 x dispirin
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260115
@@ -1131,7 +1131,7 @@ DTEND;VALUE=DATE:20260116
 END:VEVENT
 BEGIN:VEVENT
 UID:6FB9AD9B-1491-430E-95A1-B2771EEC94FF@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Phone call kids 5.50pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260417T175000
@@ -1139,7 +1139,7 @@ DTEND;TZID=Australia/Melbourne:20260417T185000
 END:VEVENT
 BEGIN:VEVENT
 UID:7065472B-F90E-48F0-9660-C5AF9C020CC9@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Cousin Cate 40th birthday dinner????
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260410T180000
@@ -1147,7 +1147,7 @@ DTEND;TZID=Australia/Melbourne:20260410T190000
 END:VEVENT
 BEGIN:VEVENT
 UID:7550809F-923F-4EAD-A31F-143DF73D96E0@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Art Fair with Rosie
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260219T134500
@@ -1155,7 +1155,7 @@ DTEND;TZID=Australia/Melbourne:20260219T144500
 END:VEVENT
 BEGIN:VEVENT
 UID:767DE7C8-C1D8-4023-8A16-813E59A72349@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -1164,7 +1164,7 @@ DTEND;TZID=Australia/Melbourne:20260908T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:78F00D18-0C13-4971-9A0F-670763CA7B98@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr Andrew Kwong 1.pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20261117T130000
@@ -1172,7 +1172,7 @@ DTEND;TZID=Australia/Melbourne:20261117T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:7936AF24-295F-4C3F-A8F9-923B103B3E94@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Daniel to book flue vaccination for Axel
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260417
@@ -1180,7 +1180,7 @@ DTEND;VALUE=DATE:20260502
 END:VEVENT
 BEGIN:VEVENT
 UID:7960E415-CAC9-4FBE-9B26-8B78234837C8@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Axel orthodontics appointment 4.20
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260623T162000
@@ -1188,7 +1188,7 @@ DTEND;TZID=Australia/Melbourne:20260623T172000
 END:VEVENT
 BEGIN:VEVENT
 UID:883401B9-FEA7-4182-BB5B-867D86D18BC4@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Ring children 5.55pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260101T175500
@@ -1196,7 +1196,7 @@ DTEND;TZID=Australia/Melbourne:20260101T185500
 END:VEVENT
 BEGIN:VEVENT
 UID:89758642-C42B-433E-BBEF-B537616A280F@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: *****dentalALFRED HOSPITAL APPOINTMENT*****
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260108
@@ -1204,7 +1204,7 @@ DTEND;VALUE=DATE:20260109
 END:VEVENT
 BEGIN:VEVENT
 UID:8B36193A-D57E-4819-B29D-3BB1ED69FC65@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -1213,7 +1213,7 @@ DTEND;TZID=Australia/Melbourne:20261124T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:8BBB383C-5313-41E3-848C-89F4202FBEA8@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Stay: Hyatt Regency Brisbane
 DESCRIPTION:Confirmation Code: 33992070\n\nCheck-in: 3:00 pm\nCheck-out: 11:00 am\n\nTelephone: +61 7 5647 1234
 LOCATION:Hyatt Regency Brisbane\n33 Burnett La\, Brisbane QLD 4000\, Australia
@@ -1223,7 +1223,7 @@ DTEND;VALUE=DATE:20260113
 END:VEVENT
 BEGIN:VEVENT
 UID:8BFF2C50-24D6-4B72-8DB2-0B3A58CBF4FE@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dinner at Saatia’s
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260509T180000
@@ -1231,7 +1231,7 @@ DTEND;TZID=Australia/Melbourne:20260509T190000
 END:VEVENT
 BEGIN:VEVENT
 UID:8E2FB4D7-6440-4FD3-B97E-E009EAC14F8B@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr waters 12pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260618T120000
@@ -1239,7 +1239,7 @@ DTEND;TZID=Australia/Melbourne:20260618T130000
 END:VEVENT
 BEGIN:VEVENT
 UID:8F113C93-1F6D-4A6E-83F5-BC2D2C068C05@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Nicolette hearing 9am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260526T090000
@@ -1247,7 +1247,7 @@ DTEND;TZID=Australia/Melbourne:20260526T100000
 END:VEVENT
 BEGIN:VEVENT
 UID:90225E64-B408-476F-A1D7-28482AF5B0CA@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Marieke physio appoint 1.45
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260202T134500
@@ -1255,7 +1255,7 @@ DTEND;TZID=Australia/Melbourne:20260202T144500
 END:VEVENT
 BEGIN:VEVENT
 UID:9050FB38-E5F1-493D-9521-82DA2FD1AB0E@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: AXEL ON CAMP
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260504
@@ -1263,7 +1263,7 @@ DTEND;VALUE=DATE:20260507
 END:VEVENT
 BEGIN:VEVENT
 UID:922701BE-6936-4A2E-B5FA-A98BFFCA0698@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Phone call kids 5.55pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260417T175500
@@ -1271,7 +1271,7 @@ DTEND;TZID=Australia/Melbourne:20260417T185500
 END:VEVENT
 BEGIN:VEVENT
 UID:93124E1F-DC5E-48B0-AA3D-35F6EF12FF29@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: ••••teaching registration due!!!!•••••
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260331
@@ -1279,7 +1279,7 @@ DTEND;VALUE=DATE:20260404
 END:VEVENT
 BEGIN:VEVENT
 UID:949C9AC9-76CC-4F80-A90F-8135B0B6D526@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: MIGRAINE-  5.30pm took at 7pm 3x dispirin 1 x Maxolt
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260329
@@ -1287,7 +1287,7 @@ DTEND;VALUE=DATE:20260330
 END:VEVENT
 BEGIN:VEVENT
 UID:9536CCF4-084A-4075-934E-7CFBA2087315@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Facial 2pm Mecca
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260128T140000
@@ -1295,7 +1295,7 @@ DTEND;TZID=Australia/Melbourne:20260128T150000
 END:VEVENT
 BEGIN:VEVENT
 UID:954EA646-63D7-42AB-AA91-F9549F7D437F@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Hilde school assembly 9am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260402T090000
@@ -1303,7 +1303,7 @@ DTEND;TZID=Australia/Melbourne:20260402T100000
 END:VEVENT
 BEGIN:VEVENT
 UID:986BFC14-E74F-47AE-9053-5FFE4FA66256@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Grace birthday party??? 11.30am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260517T113000
@@ -1311,7 +1311,7 @@ DTEND;TZID=Australia/Melbourne:20260517T123000
 END:VEVENT
 BEGIN:VEVENT
 UID:9BBB9DAD-5BD1-4E1B-8B18-C2DEE025A114@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Pick up necklace for Nicolette
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260125T120000
@@ -1319,7 +1319,7 @@ DTEND;TZID=Australia/Melbourne:20260125T130000
 END:VEVENT
 BEGIN:VEVENT
 UID:9C05A9FB-D318-4041-BC1E-5DA7F9F8557B@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: <<<<Axel parent teacher interviews>>>>
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260327
@@ -1327,7 +1327,7 @@ DTEND;VALUE=DATE:20260328
 END:VEVENT
 BEGIN:VEVENT
 UID:9C2E8F5D-C30B-444F-AB38-8F08139DC9BE@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr waters 9am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20261015T090000
@@ -1335,7 +1335,7 @@ DTEND;TZID=Australia/Melbourne:20261015T100000
 END:VEVENT
 BEGIN:VEVENT
 UID:9CF8AB21-D655-4424-AA05-1FDCCED6C0B5@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: •••AXEL RETURNED FROM D’s with
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260218
@@ -1343,7 +1343,7 @@ DTEND;VALUE=DATE:20260219
 END:VEVENT
 BEGIN:VEVENT
 UID:9DEF20F8-211A-4867-BF4F-A3EBAB904B7D@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Botox at Caulfield Hospital ?????
 LOCATION:Alfred Health\n260 Kooyong Rd\, Caulfield VIC 3162\, Australia
 CATEGORIES:Marieke-iCloud
@@ -1352,7 +1352,7 @@ DTEND;TZID=Australia/Melbourne:20260123T144500
 END:VEVENT
 BEGIN:VEVENT
 UID:A1FBD321-1560-400C-9AA4-4E1C1D5E99A7@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr waters 10am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260528T130000
@@ -1360,7 +1360,7 @@ DTEND;TZID=Australia/Melbourne:20260528T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:A2F39240-31A2-4F47-BB65-265D7AF4FD9E@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Axel commented he was a stressed because he ran out of time on his English oral CAT
 DESCRIPTION:Axel said he felt stressed because he had 48 seconds to finish his English CAT oral today. This was the second class of a two part class on this task. The first part had been on the mo day. He commented that on the Monday he barely did any work because he couldn’t focus. ( I noted on the Wednesday Axel had come home for the third cycle in a row with four days worth of his ADHD medication still not taken from his five days with his dad) \nHad Axel have taken his medication he may have had a very different outcome on the Friday class.
 CATEGORIES:Marieke-iCloud
@@ -1369,7 +1369,7 @@ DTEND;TZID=Australia/Melbourne:20260306T120000
 END:VEVENT
 BEGIN:VEVENT
 UID:A57B4E8B-3B54-423D-8EBE-6368673240F4@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: ***UNI HIGH SCHOOL MUSICAL***
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260731
@@ -1377,7 +1377,7 @@ DTEND;VALUE=DATE:20260803
 END:VEVENT
 BEGIN:VEVENT
 UID:A5A47159-BE28-45F7-BAFE-5883DDF3DE62@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: FESTIVAL OF DANGEROUS IDEAS
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260821T000000
@@ -1385,7 +1385,7 @@ DTEND;TZID=Australia/Melbourne:20260823T010000
 END:VEVENT
 BEGIN:VEVENT
 UID:A7E408B2-F57E-41E9-BFDD-9C784876F11D@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Coffee with Delwyn at roasting warehouse
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260206T091500
@@ -1393,7 +1393,7 @@ DTEND;TZID=Australia/Melbourne:20260206T101500
 END:VEVENT
 BEGIN:VEVENT
 UID:A81640F7-82E3-41E3-90AF-349A8BCB27FC@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Ring children 5.50pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260101T175000
@@ -1401,7 +1401,7 @@ DTEND;TZID=Australia/Melbourne:20260101T185000
 END:VEVENT
 BEGIN:VEVENT
 UID:ABCB27B3-C399-4E03-B9EA-36BCDBCF5098@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Marieke physio appoint 1.45
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260202T134500
@@ -1409,7 +1409,7 @@ DTEND;TZID=Australia/Melbourne:20260202T144500
 END:VEVENT
 BEGIN:VEVENT
 UID:AC27B74C-86D8-4222-BE08-BA144D010E7D@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr lim 9.45
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260211T094500
@@ -1417,7 +1417,7 @@ DTEND;TZID=Australia/Melbourne:20260211T104500
 END:VEVENT
 BEGIN:VEVENT
 UID:ACC5E505-E865-4155-B5D9-013FE5C1DA9F@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Meet Anna coffee at Spartan place cafe
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260508T093000
@@ -1425,7 +1425,7 @@ DTEND;TZID=Australia/Melbourne:20260508T103000
 END:VEVENT
 BEGIN:VEVENT
 UID:AD23092C-C2B9-4F83-9A21-0FB0F90CF6CD@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -1434,7 +1434,7 @@ DTEND;TZID=Australia/Melbourne:20260217T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:AF66A28E-35CB-473B-9156-243C4766E05A@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -1443,7 +1443,7 @@ DTEND;TZID=Australia/Melbourne:20260310T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:B107F996-CC8F-4504-A8B4-1BD1BA2BF49C@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr Mogadishu 1.15
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260120T131500
@@ -1451,7 +1451,7 @@ DTEND;TZID=Australia/Melbourne:20260120T141500
 END:VEVENT
 BEGIN:VEVENT
 UID:B203E01D-66C5-4BEB-A6E0-9207CAE9FA76@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: ****Nicolette court hearing****
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260310T110000
@@ -1459,7 +1459,7 @@ DTEND;TZID=Australia/Melbourne:20260310T120000
 END:VEVENT
 BEGIN:VEVENT
 UID:B54C0B8F-34BB-4D47-9BC7-CEF1A1BEAC72@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Terese counsellor 8.30am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260515T083000
@@ -1467,7 +1467,7 @@ DTEND;TZID=Australia/Melbourne:20260515T093000
 END:VEVENT
 BEGIN:VEVENT
 UID:BBAB31AE-1314-440B-87C9-1EC93C54081E@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr Efe 10am appointment
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260810T100000
@@ -1475,7 +1475,7 @@ DTEND;TZID=Australia/Melbourne:20260810T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:BD6193AD-191E-4C0F-B1FD-1523C4E5C113@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Botox Caulfield hospital appointment ????
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260721
@@ -1483,7 +1483,7 @@ DTEND;VALUE=DATE:20260722
 END:VEVENT
 BEGIN:VEVENT
 UID:BF11A876-49DB-41F3-8D43-C023A571996A@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr Waters 9am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260212T090000
@@ -1491,7 +1491,7 @@ DTEND;TZID=Australia/Melbourne:20260212T100000
 END:VEVENT
 BEGIN:VEVENT
 UID:C05B5C01-D38A-4530-94EB-BADE60DCDA6F@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr Chong 1.00pm Axel
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260223T130000
@@ -1499,7 +1499,7 @@ DTEND;TZID=Australia/Melbourne:20260223T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:C21C643B-7043-4F6E-8DFD-C09A6DBA8B5C@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Coffee with Sofie Oh Biscotteria North Carlton
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260213T090000
@@ -1507,7 +1507,7 @@ DTEND;TZID=Australia/Melbourne:20260213T100000
 END:VEVENT
 BEGIN:VEVENT
 UID:C25DB4F1-7A51-4FA1-8534-400516591156@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr Iser 2.15pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260205T141500
@@ -1515,7 +1515,7 @@ DTEND;TZID=Australia/Melbourne:20260205T151500
 END:VEVENT
 BEGIN:VEVENT
 UID:C3363455-2BCB-4ACB-AAF0-6E3ECC2E7ADB@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Tavi’s bday party 11-2pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260322T110000
@@ -1523,7 +1523,7 @@ DTEND;TZID=Australia/Melbourne:20260322T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:C6316DA8-7FE3-40D8-BB4C-ACC94F5BDA2D@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Hilde singing 5.30pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260311T173000
@@ -1531,7 +1531,7 @@ DTEND;TZID=Australia/Melbourne:20260311T183000
 END:VEVENT
 BEGIN:VEVENT
 UID:C6316DA8-7FE3-40D8-BB4C-ACC94F5BDA2D@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: No lesson Hilde singing 5.30pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260422T173000
@@ -1539,7 +1539,7 @@ DTEND;TZID=Australia/Melbourne:20260422T183000
 END:VEVENT
 BEGIN:VEVENT
 UID:C81F7D87-B3BC-4527-8C83-18670E61098D@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: MIGRAINE all day 1 x Maxolt 4 x dispirin
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260331
@@ -1547,7 +1547,7 @@ DTEND;VALUE=DATE:20260401
 END:VEVENT
 BEGIN:VEVENT
 UID:CA266CF3-853F-495D-975B-45F8D3473D1D@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Hugo birthday party
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260321T120000
@@ -1555,7 +1555,7 @@ DTEND;TZID=Australia/Melbourne:20260322T130000
 END:VEVENT
 BEGIN:VEVENT
 UID:CAA24468-576E-49D6-A710-14EE150887AB@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -1564,7 +1564,7 @@ DTEND;TZID=Australia/Melbourne:20260609T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:CC714FD2-5240-4E8B-B00F-2E44E569028A@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Royal Melbourne Liver Clinic 1.30
 LOCATION:1 south orange specialists clinic level 1
 CATEGORIES:Marieke-iCloud
@@ -1573,7 +1573,7 @@ DTEND;TZID=Australia/Melbourne:20260325T143000
 END:VEVENT
 BEGIN:VEVENT
 UID:CF7A0396-3B71-4B02-8BDB-0C7CFB760FA6@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Call Pauline 12.55
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260113T125500
@@ -1581,7 +1581,7 @@ DTEND;TZID=Australia/Melbourne:20260113T135500
 END:VEVENT
 BEGIN:VEVENT
 UID:D13909CC-6BC4-42B5-98E0-5C1C46C8A113@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr waters 12pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260312T120000
@@ -1589,7 +1589,7 @@ DTEND;TZID=Australia/Melbourne:20260312T130000
 END:VEVENT
 BEGIN:VEVENT
 UID:D2E4427E-8F50-4C9D-A6B7-16E4C0CD0585@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=ExhJUlIsEeyAiKKRPXulKQ&k=rU0oUKjxFXea8t4R5rS-V53CPbUjCOBaMBpEJiwpwJI\n---===---
 CATEGORIES:Marieke-iCloud
@@ -1598,7 +1598,7 @@ DTEND;TZID=Australia/Melbourne:20260319T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:D32CBAAB-CB13-43C7-8254-151E873CA2CD@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: ###SWAN HILL ENTRY DUE####
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260427
@@ -1606,7 +1606,7 @@ DTEND;VALUE=DATE:20260518
 END:VEVENT
 BEGIN:VEVENT
 UID:D38EEC03-7445-4B03-AC71-4BFC4C396696@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: ••AXEL RETURNED FROM D’s with 3 days of adhd medication not taken
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260318
@@ -1614,7 +1614,7 @@ DTEND;VALUE=DATE:20260319
 END:VEVENT
 BEGIN:VEVENT
 UID:D4E43355-A6FC-4129-9ABE-9A2021C2999F@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Call Pauline 1pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260113T130000
@@ -1622,7 +1622,7 @@ DTEND;TZID=Australia/Melbourne:20260113T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:D57F11DB-40FE-4A23-BA27-F9C52DCAFEF1@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Terese counsellor 8.30am
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260501T083000
@@ -1630,7 +1630,7 @@ DTEND;TZID=Australia/Melbourne:20260501T093000
 END:VEVENT
 BEGIN:VEVENT
 UID:DA7FCC66-17D3-4742-8345-61545ACD9A79@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Anastasia 10am
 DESCRIPTION:----( FaceTime )----\n[FaceTime]\nhttps://facetime.apple.com/join#v=1&p=+Mbr0VIrEey3RwJC7LLwpw&k=OhY574nHg9QpO4F8eWYcrOHdlFRCiDpzGsuZ-_UXP08\n---===---
 CATEGORIES:Marieke-iCloud
@@ -1639,7 +1639,7 @@ DTEND;TZID=Australia/Melbourne:20260804T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:DB9074B1-B92E-43FD-B99D-2754F0441BE5@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr water 10am
 LOCATION:739 High St\nArmadale\, VIC\, Australia
 CATEGORIES:Marieke-iCloud
@@ -1648,7 +1648,7 @@ DTEND;TZID=Australia/Melbourne:20261217T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:E04282FF-BFE0-44E4-9F47-B9AF3ED8D0CE@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: The music place Heidelberg 10-2pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260502T100000
@@ -1656,7 +1656,7 @@ DTEND;TZID=Australia/Melbourne:20260502T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:E0861F35-DDD1-47DE-BB22-2871FCB5897E@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Phone children at 6pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260417T180000
@@ -1664,7 +1664,7 @@ DTEND;TZID=Australia/Melbourne:20260417T190000
 END:VEVENT
 BEGIN:VEVENT
 UID:E2EFE763-4030-4EBB-A5AD-BDAF775C9FDF@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: MIGRAINE 1 x maxolt 1 x primadon 3 x dispirin
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260408
@@ -1672,7 +1672,7 @@ DTEND;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
 UID:E6315F72-FD9E-4221-8EF9-1BBCA3D462D4@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Hilde finishes 2.15pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260402T150000
@@ -1680,7 +1680,7 @@ DTEND;TZID=Australia/Melbourne:20260402T160000
 END:VEVENT
 BEGIN:VEVENT
 UID:E71F7AB5-4FE1-4FD4-A228-D82C047CF24E@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Book parent teachers for Axel 3pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260317T151000
@@ -1688,7 +1688,7 @@ DTEND;TZID=Australia/Melbourne:20260317T161000
 END:VEVENT
 BEGIN:VEVENT
 UID:ECCF3A08-B74C-420A-A4D7-D8D7BEC9C820@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Book parent teachers for Axel 3pm
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260317T150000
@@ -1696,7 +1696,7 @@ DTEND;TZID=Australia/Melbourne:20260317T160000
 END:VEVENT
 BEGIN:VEVENT
 UID:EE0BB5DF-6D90-4EED-AD02-1CF245B7AB48@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dental clinic 11.45 the Alfred
 LOCATION:Area A Phillip Block the Alfred
 CATEGORIES:Marieke-iCloud
@@ -1705,7 +1705,7 @@ DTEND;TZID=Australia/Melbourne:20260205T124500
 END:VEVENT
 BEGIN:VEVENT
 UID:F23B223A-E6A6-472E-83FF-66A5E3250406@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr lim 9.45
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260505T094500
@@ -1713,7 +1713,7 @@ DTEND;TZID=Australia/Melbourne:20260505T104500
 END:VEVENT
 BEGIN:VEVENT
 UID:F34B0C8C-746B-4241-80B0-D04EED2752A3@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Karen 12.30 mole check referral
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20261126T120000
@@ -1721,7 +1721,7 @@ DTEND;TZID=Australia/Melbourne:20261126T130000
 END:VEVENT
 BEGIN:VEVENT
 UID:F9C4DF1C-F77B-4998-9D9B-138BE131C7D5@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Tom hanging at Bronwyn’s
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260520
@@ -1729,7 +1729,7 @@ DTEND;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
 UID:F9ECF7C3-0EA7-4836-BDF1-F5896B9E1810@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: $65 Lully books Anglesea and music book
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260118
@@ -1737,7 +1737,7 @@ DTEND;VALUE=DATE:20260401
 END:VEVENT
 BEGIN:VEVENT
 UID:FA153FE8-2B64-4CD2-AD94-36E076B9683A@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Tom hanging at Bronwyn’s
 CATEGORIES:Marieke-iCloud
 DTSTART;VALUE=DATE:20260527
@@ -1745,7 +1745,7 @@ DTEND;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
 UID:FB0862BD-B5C5-4659-BCB2-225BEC6C6D25@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Hair colour 3.15pm $125
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260227T151500
@@ -1753,7 +1753,7 @@ DTEND;TZID=Australia/Melbourne:20260227T161500
 END:VEVENT
 BEGIN:VEVENT
 UID:x-apple-reminderkit://REMCDReminder/63C29CC9-3757-4E17-BB3D-86D82BB97EF6@marieke-icloud
-DTSTAMP:20260502T201642Z
+DTSTAMP:20260503T080128Z
 SUMMARY:M: Dr lim
 CATEGORIES:Marieke-iCloud
 DTSTART;TZID=Australia/Melbourne:20260218T110000
