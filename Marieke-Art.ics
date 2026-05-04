@@ -1,0 +1,540 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Perplexity Computer//Oliver Daly Roster//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Marieke — Art (Class + Studio + AIR)
+NAME:Marieke — Art (Class + Studio + AIR)
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VTIMEZONE
+TZID:Australia/Melbourne
+X-LIC-LOCATION:Australia/Melbourne
+BEGIN:STANDARD
+DTSTART:19700405T030000
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19701004T020000
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:marieke-art-2026-02-02@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260202T090000
+DTEND;TZID=Australia/Melbourne:20260202T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-02-09@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260209T090000
+DTEND;TZID=Australia/Melbourne:20260209T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-02-16@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260216T090000
+DTEND;TZID=Australia/Melbourne:20260216T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-02-23@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260223T090000
+DTEND;TZID=Australia/Melbourne:20260223T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-03-02@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260302T090000
+DTEND;TZID=Australia/Melbourne:20260302T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-03-16@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260316T090000
+DTEND;TZID=Australia/Melbourne:20260316T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-03-23@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260323T090000
+DTEND;TZID=Australia/Melbourne:20260323T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-03-30@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260330T090000
+DTEND;TZID=Australia/Melbourne:20260330T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-04-20@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260420T090000
+DTEND;TZID=Australia/Melbourne:20260420T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-04-27@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260427T090000
+DTEND;TZID=Australia/Melbourne:20260427T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-05-04@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260504T090000
+DTEND;TZID=Australia/Melbourne:20260504T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-05-11@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260511T090000
+DTEND;TZID=Australia/Melbourne:20260511T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-05-18@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260518T090000
+DTEND;TZID=Australia/Melbourne:20260518T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-05-25@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260525T090000
+DTEND;TZID=Australia/Melbourne:20260525T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-06-01@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260601T090000
+DTEND;TZID=Australia/Melbourne:20260601T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-06-15@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260615T090000
+DTEND;TZID=Australia/Melbourne:20260615T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-06-22@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260622T090000
+DTEND;TZID=Australia/Melbourne:20260622T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-07-13@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260713T090000
+DTEND;TZID=Australia/Melbourne:20260713T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-07-20@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260720T090000
+DTEND;TZID=Australia/Melbourne:20260720T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-07-27@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260727T090000
+DTEND;TZID=Australia/Melbourne:20260727T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-08-03@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260803T090000
+DTEND;TZID=Australia/Melbourne:20260803T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-08-10@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260810T090000
+DTEND;TZID=Australia/Melbourne:20260810T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-08-17@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260817T090000
+DTEND;TZID=Australia/Melbourne:20260817T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-08-24@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260824T090000
+DTEND;TZID=Australia/Melbourne:20260824T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-08-31@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260831T090000
+DTEND;TZID=Australia/Melbourne:20260831T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-09-07@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260907T090000
+DTEND;TZID=Australia/Melbourne:20260907T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-09-14@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20260914T090000
+DTEND;TZID=Australia/Melbourne:20260914T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-10-05@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20261005T090000
+DTEND;TZID=Australia/Melbourne:20261005T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-10-12@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20261012T090000
+DTEND;TZID=Australia/Melbourne:20261012T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-10-19@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20261019T090000
+DTEND;TZID=Australia/Melbourne:20261019T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-10-26@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20261026T090000
+DTEND;TZID=Australia/Melbourne:20261026T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-11-02@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20261102T090000
+DTEND;TZID=Australia/Melbourne:20261102T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-11-09@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20261109T090000
+DTEND;TZID=Australia/Melbourne:20261109T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-11-16@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20261116T090000
+DTEND;TZID=Australia/Melbourne:20261116T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-11-23@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20261123T090000
+DTEND;TZID=Australia/Melbourne:20261123T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-11-30@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20261130T090000
+DTEND;TZID=Australia/Melbourne:20261130T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-12-07@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20261207T090000
+DTEND;TZID=Australia/Melbourne:20261207T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2026-12-14@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20261214T090000
+DTEND;TZID=Australia/Melbourne:20261214T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2027-02-01@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20270201T090000
+DTEND;TZID=Australia/Melbourne:20270201T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2027-02-08@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20270208T090000
+DTEND;TZID=Australia/Melbourne:20270208T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2027-02-15@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20270215T090000
+DTEND;TZID=Australia/Melbourne:20270215T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2027-02-22@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20270222T090000
+DTEND;TZID=Australia/Melbourne:20270222T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2027-03-01@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20270301T090000
+DTEND;TZID=Australia/Melbourne:20270301T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2027-03-15@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20270315T090000
+DTEND;TZID=Australia/Melbourne:20270315T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2027-03-22@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20270322T090000
+DTEND;TZID=Australia/Melbourne:20270322T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2027-04-12@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20270412T090000
+DTEND;TZID=Australia/Melbourne:20270412T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2027-04-19@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20270419T090000
+DTEND;TZID=Australia/Melbourne:20270419T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-art-2027-04-26@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Art class (incl. travel)
+DESCRIPTION:Weekly Monday art class 09:00–22:00 (includes travel time\, class\, and studio time). Skipped on public holidays.
+CATEGORIES:Marieke — Art
+TRANSP:TRANSPARENT
+DTSTART;TZID=Australia/Melbourne:20270426T090000
+DTEND;TZID=Australia/Melbourne:20270426T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-air-wallan-2026-05-06@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Artist in Residence (Wallan)
+DESCRIPTION:Marieke's artist-in-residence session in Wallan.
+LOCATION:Wallan\, VIC
+CATEGORIES:Marieke — Studio
+TRANSP:OPAQUE
+DTSTART;TZID=Australia/Melbourne:20260506T120000
+DTEND;TZID=Australia/Melbourne:20260506T170000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-air-wallan-2026-05-27@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Artist in Residence (Wallan)
+DESCRIPTION:Marieke's artist-in-residence session in Wallan.
+LOCATION:Wallan\, VIC
+CATEGORIES:Marieke — Studio
+TRANSP:OPAQUE
+DTSTART;TZID=Australia/Melbourne:20260527T120000
+DTEND;TZID=Australia/Melbourne:20260527T170000
+END:VEVENT
+BEGIN:VEVENT
+UID:marieke-air-wallan-2026-06-10@oliver-daly-roster
+DTSTAMP:20260504T065835Z
+SUMMARY:Marieke — Artist in Residence (Wallan)
+DESCRIPTION:Marieke's artist-in-residence session in Wallan.
+LOCATION:Wallan\, VIC
+CATEGORIES:Marieke — Studio
+TRANSP:OPAQUE
+DTSTART;TZID=Australia/Melbourne:20260610T120000
+DTEND;TZID=Australia/Melbourne:20260610T170000
+END:VEVENT
+END:VCALENDAR
