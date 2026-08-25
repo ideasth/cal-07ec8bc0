@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gp-kensington-20260507-0900@oliver-daly-roster
-DTSTAMP:20260824T200254Z
+DTSTAMP:20260825T020113Z
 SUMMARY:GP — Kensington Healthcare
 DESCRIPTION:Doctor's appointment at Kensington Healthcare.
 LOCATION:Kensington Healthcare
@@ -37,7 +37,7 @@ DTEND;TZID=Australia/Melbourne:20260507T093000
 END:VEVENT
 BEGIN:VEVENT
 UID:buoy-adhoc-oliver_personal-3@buoy@buoy-adhoc-oliver-personal
-DTSTAMP:20260824T200254Z
+DTSTAMP:20260825T020113Z
 SUMMARY:Qantas flight QF418
 DESCRIPTION:Flight duration 1h 30m. 0 stops. Economy Classic Plus.
 LOCATION:Melbourne (Tullamarine) to Sydney (Kingsford Smith)
@@ -47,7 +47,7 @@ DTEND;TZID=Australia/Melbourne:20260808T233000
 END:VEVENT
 BEGIN:VEVENT
 UID:buoy-adhoc-oliver_personal-4@buoy@buoy-adhoc-oliver-personal
-DTSTAMP:20260824T200254Z
+DTSTAMP:20260825T020113Z
 SUMMARY:Qantas QF413
 DESCRIPTION:Destination Melbourne (Tullamarine). Flight duration 1h 35m. 0 stops. Economy Classic Plus. Qantas flight QF413.
 LOCATION:Sydney (Kingsford Smith)
@@ -57,7 +57,7 @@ DTEND;TZID=Australia/Melbourne:20260809T230000
 END:VEVENT
 BEGIN:VEVENT
 UID:buoy-adhoc-oliver_personal-8@buoy@buoy-adhoc-oliver-personal
-DTSTAMP:20260824T200254Z
+DTSTAMP:20260825T020113Z
 SUMMARY:RACV club
 CATEGORIES:BuoyAdhoc-oliver-personal
 DTSTART;TZID=Australia/Melbourne:20260809T230000
