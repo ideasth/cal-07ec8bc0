@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gp-kensington-20260507-0900@oliver-daly-roster
-DTSTAMP:20261024T160318Z
+DTSTAMP:20261031T160811Z
 SUMMARY:GP — Kensington Healthcare
 DESCRIPTION:Doctor's appointment at Kensington Healthcare.
 LOCATION:Kensington Healthcare
@@ -36,17 +36,8 @@ DTSTART;TZID=Australia/Melbourne:20260507T090000
 DTEND;TZID=Australia/Melbourne:20260507T093000
 END:VEVENT
 BEGIN:VEVENT
-UID:buoy-adhoc-oliver_personal-11@buoy@buoy-adhoc-oliver-personal
-DTSTAMP:20261024T160318Z
-SUMMARY:ASQ - ACMD concert
-LOCATION:ACMD - St Vincents
-CATEGORIES:BuoyAdhoc-oliver-personal
-DTSTART;TZID=Australia/Melbourne:20261001T070000
-DTEND;TZID=Australia/Melbourne:20261001T100000
-END:VEVENT
-BEGIN:VEVENT
 UID:buoy-adhoc-oliver_personal-16@buoy@buoy-adhoc-oliver-personal
-DTSTAMP:20261024T160318Z
+DTSTAMP:20261031T160811Z
 SUMMARY:Dentist
 CATEGORIES:BuoyAdhoc-oliver-personal
 DTSTART;TZID=Australia/Melbourne:20261021T234500
